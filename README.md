@@ -32,10 +32,10 @@ This is a simple web-based implementation of the classic Simon game. Simon is a 
 - Sounds used in the game are sourced from various sources.
 
 ## Developer:
-[Your Name/Username]
+[Ashutosh Mishra]
 
 ## Date:
-[Date of creation/last update]
+[August 18 2023]
 
 ## Note:
 This project is for educational purposes only. All rights to the original Simon game concept belong to their respective owners.
